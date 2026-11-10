@@ -1,0 +1,63 @@
+
+[
+  {
+    "id": 1,
+    "question": "What is this product?",
+    "answer": "This product helps users manage their tasks quickly and efficiently.",
+    "category": "Product"
+  },
+  {
+    "id": 2,
+    "question": "How do I create an account?",
+    "answer": "Click the Sign Up button, enter your details, and follow the instructions to create your account.",
+    "category": "Account"
+  },
+  {
+    "id": 3,
+    "question": "How can I reset my password?",
+    "answer": "Click Forgot Password on the login page and follow the instructions sent to your registered email.",
+    "category": "Account"
+  },
+  {
+    "id": 4,
+    "question": "How do I contact customer support?",
+    "answer": "Please contact the customer support team through the Help or Contact Us section.",
+    "category": "Support"
+  },
+  {
+    "id": 5,
+    "question": "Is this product free?",
+    "answer": "Please check the product's pricing page for current plans and free options.",
+    "category": "Pricing"
+  },
+  {
+    "id": 6,
+    "question": "How do I update my profile?",
+    "answer": "Log in to your account, open Profile Settings, edit your details, and save your changes.",
+    "category": "Account"
+  },
+  {
+    "id": 7,
+    "question": "What should I do if I cannot log in?",
+    "answer": "Check your email and password, verify your internet connection, and use Forgot Password if necessary.",
+    "category": "Troubleshooting"
+  },
+  {
+    "id": 8,
+    "question": "How do I get a refund?",
+    "answer": "Review the product's refund policy and contact customer support to request assistance.",
+    "category": "Payments"
+  },
+  {
+    "id": 9,
+    "question": "Can I use this product on my phone?",
+    "answer": "Check the product's supported devices and mobile access options in its documentation.",
+    "category": "Product"
+  },
+  {
+    "id": 10,
+    "question": "How do I delete my account?",
+    "answer": "Open your account settings and look for the account deletion option. Contact support if you need help.",
+    "category": "Account"
+  }
+]

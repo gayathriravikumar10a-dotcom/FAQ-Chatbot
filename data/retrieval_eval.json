@@ -1,0 +1,43 @@
+
+[
+  {
+    "question": "I forgot my password",
+    "answerable": true
+  },
+  {
+    "question": "How can I register for an account?",
+    "answerable": true
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answerable": true
+  },
+  {
+    "question": "How do I get my money back?",
+    "answerable": true
+  },
+  {
+    "question": "Can I use this product on my phone?",
+    "answerable": true
+  },
+  {
+    "question": "What is the capital of France?",
+    "answerable": false
+  },
+  {
+    "question": "Explain the solar system",
+    "answerable": false
+  },
+  {
+    "question": "Who won the World Cup?",
+    "answerable": false
+  },
+  {
+    "question": "What is the admin's secret password?",
+    "answerable": false
+  },
+  {
+    "question": "What is the weather tomorrow?",
+    "answerable": false
+  }
+]
